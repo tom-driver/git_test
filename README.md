@@ -1,2 +1,2 @@
 # git_test
-Test GitHub Repo
+This is my test github repo. For The Odin Project
